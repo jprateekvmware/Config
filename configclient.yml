@@ -1,4 +1,4 @@
 configuration:  
   projectName: configclient
 message:
-  greeting: Hello from the configuration Prateek On photon - Dev branch
+  greeting: Hello from the configuration Prateek On photon - Dev branch testing rabbitmq
